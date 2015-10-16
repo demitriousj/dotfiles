@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd ~/dotfiles
-ln -s .vimrc ~/.vimrc
-ln -s .tmux.conf ~/.tmux.conf
+cd /home/demitriousj-gen/dotfiles
+ln -s .vimrc /home/demitriousj-gen/.vimrc
+ln -s .tmux.conf /home/demitriousj-gen/.tmux.conf
