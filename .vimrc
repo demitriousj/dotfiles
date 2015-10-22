@@ -100,3 +100,6 @@ noremap   <Right>  <NOP>
 
 "allows for cursor movement on displayed lines
 :set wrap lbr
+
+"allows NERDTree to show dot files
+let NERDTreeShowHidden=1
